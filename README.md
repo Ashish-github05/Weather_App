@@ -1,2 +1,3 @@
-# Weather_App
- using HTML, CSS, JS and weather api
+# Weather App
+
+Fully Responsive Weather app using HTML5, CSS3, JavaScript and Weather api.
